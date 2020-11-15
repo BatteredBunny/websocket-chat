@@ -1,0 +1,23 @@
+{
+  "name": "websocket-chat",
+  "version": "1.0.0",
+  "description": "Simple websocket chat that can be linked with Discord.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "ayes-web",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "@redoxengine/medical-word-uuid": "^1.2.5",
+    "axios": "^0.21.0",
+    "discord.js": "^12.4.1",
+    "express": "^4.17.1",
+    "validator": "^13.1.17",
+    "ws": "^7.4.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.8",
+    "@types/ws": "^7.2.9"
+  }
+}

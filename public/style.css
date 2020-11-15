@@ -1,0 +1,49 @@
+.message {
+    margin: 30px;
+}
+.name {
+    color: #ffffff;
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.375rem;
+    vertical-align: baseline;
+    position: relative;
+    display:inline-block;
+    margin-right:10px;
+}
+.content {
+    color:rgb(220, 221, 222);
+    margin-left: -72px;
+    padding-left: 72px;
+    font-weight: 400;
+    overflow: auto;
+    line-break: auto;
+    word-wrap: break-word;
+}
+.id {
+    color: #7fffa4;
+    display:inline-block;
+    margin-right:10px;
+}
+.id::before {
+    content: "#";
+}
+body {
+    background-color: rgb(29, 31, 33);
+}
+.time {
+    color: rgb(114, 118, 125);
+    display:inline-block;
+    font-size: 16px;
+}
+.time::before {
+    content: "Today at ";
+    white-space: pre;
+}
+.discord-logo {
+    display:inline-block;
+    margin-right:10px;
+}
+span {
+    color: teal;
+}

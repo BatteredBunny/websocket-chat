@@ -1,0 +1,7 @@
+{
+    "webPort": 3000,
+    "wsPort": 8080,
+    "discord_webhook": "DISCORD WEBHOOK HERE",
+    "discord_bot_token": "BOT TOKEN HERE",
+    "discord_channel_id": "CHANNEL ID HERE"
+}
