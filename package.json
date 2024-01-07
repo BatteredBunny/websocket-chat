@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node server.js"
   },
-  "author": "ayes-web",
+  "author": "BatteredBunny",
   "license": "GPL-3.0",
   "dependencies": {
     "@redoxengine/medical-word-uuid": "^1.2.5",
